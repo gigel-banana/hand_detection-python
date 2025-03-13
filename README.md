@@ -9,4 +9,5 @@ OpenCV allows us to use the webcam in real time.
 PyQt5 is used for the project's graphical interface. We also used QT Designer to create the GUI.  
 We use `google.protobuf.json_format` to convert MediaPipe results into JSON format.
 
-To run the code, you should make sure you have the photos in the same folder as the .py files..
+To run the code, you should make sure you have the photos in the same folder as the .py files.
+
